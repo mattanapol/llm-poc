@@ -1,0 +1,2 @@
+ipykernel
+semantic-kernel>=1.0.2

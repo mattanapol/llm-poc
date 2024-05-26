@@ -1,0 +1,6 @@
+ipykernel
+langgraph
+langchain-community
+langchain-openai
+pandas
+httpx

@@ -168,3 +168,5 @@ pyvenv.cfg
 
 # Personal configurations
 config.yaml
+
+.DS_Store
