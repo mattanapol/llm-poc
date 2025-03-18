@@ -1,0 +1,13 @@
+ipykernel
+gradio
+pandas
+streamlit
+langchain
+langchain-openai
+azure-cognitiveservices-speech
+pytube
+ollama
+yt_dlp
+moviepy
+openai-whisper
+pydub

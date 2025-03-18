@@ -1,0 +1,7 @@
+ipykernel
+langgraph
+langchain-community
+langchain-openai
+opencv-python
+transformers
+pytorch

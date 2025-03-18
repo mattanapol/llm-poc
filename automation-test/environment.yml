@@ -1,0 +1,8 @@
+name: poc-ai-automation-test
+
+dependencies:
+  - python>=3.12
+  - anaconda
+  - pip
+  - pip:
+    - -r requirements.txt

@@ -1,0 +1,8 @@
+name: poc-phi-3-vision-local
+
+dependencies:
+  - python>=3.12
+  - anaconda
+  - pip
+  - pip:
+    - -r requirements.txt
